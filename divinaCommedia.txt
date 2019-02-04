@@ -22,3 +22,7 @@ Ciao 12324213518
 gab:
 
 Grazie per la sua cortese risposta.
+
+gab:
+
+Ho scordato il commit divino, lo metto in questo.
